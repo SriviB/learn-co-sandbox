@@ -1,0 +1,28 @@
+ents = 10
+rem = 27/10.floor
+print rem
+
+# # fav1 = "Harry Potter"
+# # fav2 = "Boyhood"
+# # fav3 = "Legally Blonde"
+
+# fav_movies = ["Harry Potter", "Boyhood", "Legally Blonde"]
+
+# fav_movies << 'movie'
+
+# fav_movies.insert(1, 'room')
+# fav_movies.push('hi')
+# fav_movies.unshift('yo', 'wooo')
+# fav_movies.delete('yo')
+# fav_movies.delete(-1)
+# fav_movies.inspect
+# puts fav_movies.size # or .length
+
+
+
+# arr = [1, 2, 3]
+# sum = 0
+# arr.each do |x|
+#   sum += x
+# end
+# puts sum
